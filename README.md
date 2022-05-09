@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 -->
 
 
-
-<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://i.giphy.com/uhYPkjP03h9RvVdazZ.gif" width="100%">
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/siwalikm/siwalikm/blob/master/rickroll.gif?raw=true" width="100%">
